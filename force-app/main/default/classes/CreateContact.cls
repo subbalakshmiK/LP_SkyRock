@@ -1,5 +1,5 @@
-public with sharing class CreateContact {
-    public CreateContact() {
+public with sharing class createcontact {
+    public createcontact() {
 
     }
 }
